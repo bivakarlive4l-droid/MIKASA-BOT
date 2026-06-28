@@ -10,7 +10,7 @@ module.exports = {
                 name: "4k",
                 aliases: ["hd", "upscale"],
                 version: "1.7",
-                author: "BIVAKAR DAS",
+                author: "MahMUD",
                 countDown: 10,
                 role: 0,
                 description: {
